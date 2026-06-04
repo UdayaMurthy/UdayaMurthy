@@ -24,8 +24,6 @@
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UdayaMurthy&theme=tokyo-night)
 
 <p align="center">
