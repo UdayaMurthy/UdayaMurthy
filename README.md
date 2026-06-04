@@ -65,13 +65,13 @@ Home Server
 
 ## 🔧 Current Hardware
 
-| Component     | Specification           |
-|---------------|-------------------------|
-| CPU           | Intel Core i3           |
-| RAM           | 2 GB *(Planned Upgrade)*|
-| OS Drive      | 256 GB HDD              |
-| Storage Drive | Planned 1 TB HDD        |
-| OS            | Debian + OpenMediaVault |
+| Component     | Specification               |
+|---------------|-----------------------------|
+| CPU           | Intel Core i3               |
+| RAM           | 2 GB *(Planned Upgrade)*    |
+| OS Drive      | 256 GB HDD                  |
+| Storage Drive | 1 TB HDD *(Planned Upgrade)*|
+| OS            | Debian + OpenMediaVault     |
 
 ---
 
