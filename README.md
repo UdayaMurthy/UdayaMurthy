@@ -171,6 +171,7 @@ while maintaining complete ownership and control of data.
 ## 🌐 Profiles
 
 - GitHub: https://github.com/UdayaMurthy
+- https://buymeacoffee.com/udhayamoorthy
 
 ---
 
