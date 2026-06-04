@@ -4,18 +4,46 @@
 
 > Building a private cloud, media platform, and self-hosted infrastructure one service at a time.
 
+![](https://komarev.com/ghpvc/?username=UdayaMurthy&style=for-the-badge)
+
+---
+
+## 🔥 Active Projects
+
+| Project | Status |
+|----------|----------|
+| OMV Home Server | 🟢 Active |
+| Jellyfin Media Server | 🟢 Active |
+| Tailscale Remote Access | 🟢 Active |
+| AdGuard Home | 🟡 In Progress |
+| Immich | 🔵 Planned |
+| Grafana | 🔵 Planned |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UdayaMurthy&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayaMurthy&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UdayaMurthy&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🚀 Current Mission
 
 Designing and maintaining a self-hosted home server ecosystem powered by:
 
-* 🐧 Debian Linux
-* 📦 OpenMediaVault
-* 🐳 Docker
-* 🎬 Jellyfin
-* 🔒 Tailscale
-* 🌐 AdGuard Home (In Progress)
+- 🐧 Debian Linux
+- 📦 OpenMediaVault
+- 🐳 Docker
+- 🎬 Jellyfin
+- 🔒 Tailscale
+- 🌐 AdGuard Home (In Progress)
 
 ---
 
@@ -40,11 +68,11 @@ Home Server
 ## 🔧 Current Hardware
 
 | Component     | Specification           |
-| ------------- | ----------------------- |
+|---------------|-------------------------|
 | CPU           | Intel Core i3           |
-| RAM           | 2 GB                    |
+| RAM           | 2 GB *(Planned Upgrade)*|
 | OS Drive      | 256 GB HDD              |
-| Storage Drive | 1 TB HDD                |
+| Storage Drive | Planned 1 TB HDD        |
 | OS            | Debian + OpenMediaVault |
 
 ---
@@ -53,25 +81,19 @@ Home Server
 
 ### Infrastructure
 
-* Linux
-* Debian
-* OpenMediaVault
-* Docker
-* Docker Compose
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![OpenMediaVault](https://img.shields.io/badge/OpenMediaVault-1A1A1A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-### Networking
+### Networking & Tools
 
-* Tailscale
-* SMB/CIFS
-* DNS Filtering
-* Remote Administration
-
-### Development & Tools
-
-* Git
-* GitHub
-* VS Code
-* Arduino
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge)
+![SMB](https://img.shields.io/badge/SMB-CIFS-blue?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
 ---
 
@@ -81,23 +103,23 @@ Home Server
 
 A self-hosted infrastructure project focused on media streaming, storage management, and secure remote access.
 
-#### Implemented
+#### ✅ Implemented
 
-* ✅ Debian Installation
-* ✅ OpenMediaVault Configuration
-* ✅ Docker Environment
-* ✅ Jellyfin Media Server
-* ✅ SMB Network Shares
-* ✅ Tailscale Remote Access
+- Debian Installation
+- OpenMediaVault Configuration
+- Docker Environment
+- Jellyfin Media Server
+- SMB Network Shares
+- Tailscale Remote Access
 
-#### Planned
+#### 🔄 Planned
 
-* 🔄 AdGuard Home
-* 📸 Immich Photo Backup
-* 📊 Grafana Monitoring
-* 🏡 Homepage Dashboard
-* ☁️ Nextcloud
-* 🔁 Automated Backups
+- AdGuard Home
+- Immich Photo Backup
+- Grafana Monitoring
+- Homepage Dashboard
+- Nextcloud
+- Automated Backups
 
 ---
 
@@ -121,12 +143,12 @@ A self-hosted infrastructure project focused on media streaming, storage managem
 
 ## 📖 Currently Learning
 
-* Docker Networking
-* Container Management
-* Self-Hosted Infrastructure
-* Network Security
-* Backup & Disaster Recovery
-* Linux Administration
+- Docker Networking
+- Container Management
+- Self-Hosted Infrastructure
+- Network Security
+- Backup & Disaster Recovery
+- Linux Administration
 
 ---
 
@@ -134,20 +156,20 @@ A self-hosted infrastructure project focused on media streaming, storage managem
 
 Build a fully self-hosted ecosystem capable of:
 
-* Media Streaming
-* File Storage
-* Secure Remote Access
-* Photo Backup
-* Monitoring & Analytics
-* Personal Cloud Services
+- Media Streaming
+- File Storage
+- Secure Remote Access
+- Photo Backup
+- Monitoring & Analytics
+- Personal Cloud Services
 
 while maintaining complete ownership and control of data.
 
 ---
 
-## 📫 Connect
+## 🌐 Profiles
 
-* GitHub: github.com/UdayaMurthy
+- GitHub: https://github.com/UdayaMurthy
 
 ---
 
