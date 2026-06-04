@@ -26,10 +26,7 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UdayaMurthy&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayaMurthy&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UdayaMurthy&theme=tokyo-night)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=UdayaMurthy&theme=tokyonight" />
