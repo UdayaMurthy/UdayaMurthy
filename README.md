@@ -15,6 +15,7 @@
 | OMV Home Server | 🟢 Active |
 | Jellyfin Media Server | 🟢 Active |
 | Tailscale Remote Access | 🟢 Active |
+| File Browser | 🟢 Active |
 | AdGuard Home | 🟡 In Progress |
 | Immich | 🔵 Planned |
 | Prometheus | 🔵 Planned |
@@ -40,6 +41,7 @@ Designing and maintaining a self-hosted home server ecosystem powered by:
 - 📦 OpenMediaVault
 - 🐳 Docker
 - 🎬 Jellyfin
+- 📁 File Browser
 - 🔒 Tailscale
 - 🌐 AdGuard Home (In Progress)
 
@@ -56,6 +58,7 @@ Home Server
 ├── OpenMediaVault
 ├── Docker Engine
 │   ├── Jellyfin
+|   ├── File Browser
 │   └── AdGuard Home
 ├── SMB Shares
 └── Tailscale VPN
