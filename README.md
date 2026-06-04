@@ -17,6 +17,7 @@
 | Tailscale Remote Access | 🟢 Active |
 | AdGuard Home | 🟡 In Progress |
 | Immich | 🔵 Planned |
+| Prometheus | 🔵 Planned |
 | Grafana | 🔵 Planned |
 
 ---
